@@ -26,14 +26,24 @@ Command | Description
 
 > These commands are only available to [Supporters](supporter).
 
+## [PeaceCraft](realm_PeaceCraft)
+
+None available at this time.
+
 ## [Creative](realm_creative)
 
 None available at this time.
 
 ## [Skyblock](realm_skyblock)
 
-None available at this time.
+`/is`
+`/is warp`
+`/is spawn`
+
+https://www.spigotmc.org/resources/askyblock.1220/
 
 ## [PVP](realm_pvp)
 
-None available at this time.
+`/duel %playername%
+
+https://github.com/Realizedd/Duels/wiki/Commands
